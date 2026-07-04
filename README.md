@@ -1,4 +1,4 @@
-# AI-Component-2
+# 8-Puzzle-Solver
 ```markdown
 # 8-Puzzle Solver Using Informed Search Algorithms
 
