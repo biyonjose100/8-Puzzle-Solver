@@ -2,17 +2,14 @@
 ```markdown
 # 8-Puzzle Solver Using Informed Search Algorithms
 
-This repository contains Python implementations of two fundamental **Informed Search Algorithms**—**Greedy Best-First Search (Greedy BFS)** and **A* Search**—designed to solve the classic 8-puzzle problem. 
-
-The implementations feature a challenging initial configuration that requires an optimal path of **8 moves** to transition into the target goal state.
-
+This repository contains Python implementations of two fundamental **Informed Search Algorithms**—**Greedy Best-First Search (Greedy BFS)** and **A* Search**—designed to solve the classic 8-puzzle problem
 ---
 
 ## 📌 Problem Overview
 The 8-puzzle consists of a 3x3 grid containing 8 numbered tiles and one empty slot (denoted as `0` or `_`). The goal is to rearrange the scrambled numbers into an ordered numerical grid by sliding tiles horizontally or vertically into the empty slot. 
 
 ### Grid Configurations
-* **Initial State (Complex Input)**
+* **Initial State**
   ```text
   _  5  2
   1  8  3
@@ -70,8 +67,8 @@ Ensure you have Python 3.x installed on your local machine. No external librarie
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/8-puzzle-informed-search.git](https://github.com/your-username/8-puzzle-informed-search.git)
-cd 8-puzzle-informed-search
+git clone https://github.com/biyonjose100/8-Puzzle-Solver.git
+cd 8-Puzzle-Solver
 
 ```
 
